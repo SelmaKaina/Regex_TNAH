@@ -31,7 +31,31 @@ En 2019, Marie-Claire Dufour pèse un marmotton : 2.5 kg, comme l'isard de 1749 
 
 ## Classes de caractères
 
+1. Trouver “marmotte” et “marmotto”
+
+2. Trouver “lupos” et “lupis”, mais pas “lupus”.
+
+3. Trouver toutes les années.
+
+4. Trouver les années à partir de 2000.
+
+5. Trouver les années antérieurs à 1800.
+
+6. Trouver les années de 1700 à 1749.
+
 ## Quantificateurs
+
+1. Trouver “grrr”, “grrrrr” et “grr”. Les remplacer par “ouille”.
+
+2. Trouver les années antérieures à 1900.
+
+3. Trouver les prénoms composés.
+
+4. Trouver les mots de 15 lettres et plus.
+
+5. Trouver les espaces doublées et les remplacer par une seule espace.
+
+6. Trouver les mots qui commencent par deux majuscules.
 
 ```
 Notice : le renard roux (Vulpes vulpes)
@@ -52,6 +76,20 @@ Puis disparaît, souple et superbe.
 ```
 
 ## Groupes
+
+1. Supprimer les civilités. Obtenir “Dubois, Martin et Bernard”.
+
+2. Transformer “Auteur : Camille Lenoir” en “Auteur : Lenoir, Camille”.
+
+3. Trouver les mots répétés trois fois.
+
+4. Convertir l’URL en markdown.
+
+5. Remplacer les guillemets droits en guillemets français.
+
+6. Transformer la note [^ voir la fiche…] en <note>voir la fiche…</note>
+
+7. Supprimer les civilités. Obtenir “Dubois, Martin et Bernard”.
 
 ## Ancres
 
