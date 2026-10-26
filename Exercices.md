@@ -17,6 +17,18 @@ En 2019, Marie-Claire Dufour pèse un marmotton : 2.5 kg, comme l'isard de 1749 
 
 ## Caractères littéraux et métacaractères
 
+1. Cherchez “un”. Que constatez-vous ? 
+
+2. Trouver “lupa”, “lupi” et “lupo”.
+
+3. Trouver tous les points et les virgules.
+
+4. Remplacer “il” et “elle” par “iel”
+
+5. Corriger “2.5 kg” en “2,5 kg”
+
+6. Trouver “(Pyrénées-Atlantiques)”
+
 ## Classes de caractères
 
 ## Quantificateurs
