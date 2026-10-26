@@ -1,5 +1,6 @@
 # Exercices
 
+## Partie 1
 Les exercices sont à réaliser dans l'application en ligne [Regex101](https://regex101.com/)
 
 ```
@@ -15,7 +16,7 @@ qu'il lit chaque soir. Ce Garnier est incontestablement   précis.
 En 2019, Marie-Claire Dufour pèse un marmotton : 2.5 kg, comme l'isard de 1749 ; elle retrouve aussi 3,5 kg chez la marmotte adulte.
 ```
 
-## Caractères littéraux et métacaractères
+### Caractères littéraux et métacaractères
 
 1. Cherchez “un”. Que constatez-vous ? 
 
@@ -29,7 +30,7 @@ En 2019, Marie-Claire Dufour pèse un marmotton : 2.5 kg, comme l'isard de 1749 
 
 6. Trouver “(Pyrénées-Atlantiques)”
 
-## Classes de caractères
+### Classes de caractères
 
 1. Trouver “marmotte” et “marmotto”
 
@@ -43,7 +44,7 @@ En 2019, Marie-Claire Dufour pèse un marmotton : 2.5 kg, comme l'isard de 1749 
 
 6. Trouver les années de 1700 à 1749.
 
-## Quantificateurs
+### Quantificateurs
 
 1. Trouver “grrr”, “grrrrr” et “grr”. Les remplacer par “ouille”.
 
@@ -56,6 +57,8 @@ En 2019, Marie-Claire Dufour pèse un marmotton : 2.5 kg, comme l'isard de 1749 
 5. Trouver les espaces doublées et les remplacer par une seule espace.
 
 6. Trouver les mots qui commencent par deux majuscules.
+
+## Partie 2
 
 ```
 Notice : le renard roux (Vulpes vulpes)
@@ -75,7 +78,7 @@ il guette le mulot qui recule,
 Puis disparaît, souple et superbe.
 ```
 
-## Groupes
+### Groupes
 
 1. Supprimer les civilités. Obtenir “Dubois, Martin et Bernard”.
 
@@ -91,6 +94,6 @@ Puis disparaît, souple et superbe.
 
 7. Supprimer les civilités. Obtenir “Dubois, Martin et Bernard”.
 
-## Ancres
+### Ancres
 
-## ***Lookahead*** et *lookbehind***
+### ***Lookahead*** et *lookbehind***
