@@ -96,4 +96,14 @@ Puis disparaît, souple et superbe.
 
 ### Ancres
 
-### ***Lookahead*** et *lookbehind***
+1. Trouver tous les mots terminant par la lettre “c”.
+
+2. Trouver tous les mots d’exactement 3 lettres.
+
+3. Trouver tous les “c” en milieu de mot.
+
+4. Trouver les minuscules en début de vers.
+
+5. Trouver les vers qui se terminent par une virgule.
+
+### ***Lookahead*** et ***lookbehind***
