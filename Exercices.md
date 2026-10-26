@@ -107,3 +107,15 @@ Puis disparaît, souple et superbe.
 5. Trouver les vers qui se terminent par une virgule.
 
 ### ***Lookahead*** et ***lookbehind***
+
+1. Trouver les occurrences de "renard" suivi de "roux", sans capturer "roux".
+
+2. Trouver les nombres qui ne sont pas suivis d'une unité, sans capturer l'unité.
+
+3. Trouver les mots suivis d'une virgule, sans capturer la virgule.
+
+4. Trouver "rusé" sauf dans l'expression "pas rusé".
+
+5. Trouver le mois de la date "12-05-2021".
+
+6. Extraire le texte de la note de bas de page sans les délimiteurs, puis le texte entre guillemets sans capturer les guillemets.
