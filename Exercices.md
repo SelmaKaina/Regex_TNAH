@@ -80,7 +80,7 @@ Puis disparaît, souple et superbe.
 
 ### Groupes
 
-1. Supprimer les civilités. Obtenir “Dubois, Martin et Bernard”.
+1. Changer le format des dates de jj/mm/aaaa vers aaaa/mm/jj.
 
 2. Transformer “Auteur : Camille Lenoir” en “Auteur : Lenoir, Camille”.
 
