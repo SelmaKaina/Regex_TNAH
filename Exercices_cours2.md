@@ -21,22 +21,43 @@ Puis disparaît, souple et superbe.
 
 ### Rappels cours 1
 ```
-L’utilisation des drogues est ancienne et la frontière, en jeu derrière la notion de « drogue », entre poison et médicament est ténue : la plupart des substances psychoactives sont à la fois l'un et l'autre et la catégorisation en termes de « drogue » est une construction sociale fluctuant selon les usages, les lieux et les époques. Il apparaît crucial de porter un regard nuancé sur ce thème qui cristallise les passions, formant un continuum entre diabolisation extrême et déni de tout risque. Alors qu’un paradigme prohibitionniste a dominé la réponse apportée au XXe siècle au niveau mondial, les dernières décennies ont vu l’émergence d’une approche nouvelle : la réduction des risques.
-Ce projet d’exposition prend racine dans cette idée que la connaissance des drogues et de leurs effets est essentielle. Pourquoi les humains consomment-ils des substances psychoactives, susceptibles, pour certaines, de provoquer une dépendance ? L’usage de ces produits « puissants » interroge notre rapport aux limites, qu’elles soient physiologiques ou spirituelles. Elles ne se réduisent pas à leurs effets sur le corps et l’esprit : elles s’inscrivent dans des histoires, sont associées à des pratiques sociales, des croyances ou des symboles, et relèvent pour certaines d’enjeux économiques majeurs. La mise en regard des données épidémiologiques, de celles des sciences sociales et des points de vue des consommateurs sur les drogues, offre une vision mesurée des phénomènes observés. Ils permettront au visiteur de circuler entre objets liés aux usages de drogues, représentations iconographiques et artistiques d’une part et informations scientifiques pluridisciplinaires d’autre part
-Cette exposition éclaire ainsi d’un jour neuf, documenté et nuancé, un phénomène ancien mais toujours très actuel, aussi fascinant que controversé.
-Avec les interventions de :
+Cet atlas, le premier consacré à la flore de ces territoires, présente une synthèse des connaissances botaniques rassemblées au cours des missions scientifiques qui se sont succédé dans les Terres australes françaises (archipels Crozet et Kerguelen et les îles Saint-Paul et Amsterdam) depuis leur découverte.
+Accessible et richement illustré, il s’adresse à tous les passionnés du vivant, qu’ils soient scientifiques ou simples curieux, fascinés par ces territoires du bout du monde et la singularité de leur flore. C'est un ouvrage de référence pour la connaissance et la conservation de cette flore.
 
-    François Beck, docteur en sociologie, chercheur au Centre de Recherche en Epidémiologie et Santé des Populations (CESP), Inserm U1018, Universités Paris-Saclay, Paris-Sud et Versailles Saint-Quentin, ancien Directeur de l'Observatoire français des Drogues et Toxicomanies (OFDT).
-    Vincent Verroust, ethnobotaniste, historien des sciences au Centre d'histoire des sociétés, des sciences et des conflits, Université Picardie Jules Verne Amiens, chercheur associé à l'UR Psycomadd, CHU Paul Brousse, Villejuif, et enseignant en conférence de méthode « science et société », IEP Sciences Po, Paris.
-    Alain Epelboin, médecin anthropologue retraité actif du CNRS UMR7206, attaché honoraire du MNHN, ancien membre du Collège scientifique de l'OFDT et du conseil scientifique de la Mission interministérielle de lutte contre les toxicomanies (MILDT).
 
-Lundi 23 novembre 2026
-Rendez-vous à 18 h dans l'auditorium Jean Rouch - Durée : 1 h 30
-Entrée libre et gratuite dans la limite des places disponibles - sur réservation
+Les plus de cet ouvrage :
+• les chapitres introductifs proposent une vision complète de la géologie, du climat, des habitats, de la faune terrestre et de l’histoire des explorations botaniques pour chaque île, tout en abordant la protection et la conservation d’une flore insulaire si sensible ;
+• 61 plantes natives et 124 espèces introduites présentées sous forme de fiches descriptives ;
+• des données précises et actualisées, fruit de deux décennies d’inventaires, sur la répartition de chaque espèce ;
+• plus de 1 200 photos et cartes de répartition, capitalisant près de 160 000 données ;
+• un aperçu actualisé de la diversité des diatomées, macroalgues, mousses (Bryophytes) et lichens, rédigé par des experts référents ;
+• une mise à jour complète des listes d’espèces de Trachéophytes présentes dans les Terres australes françaises ;
+• une clé d’identification en téléchargement libre est proposée encomplément de cet atlas.
+
+Citation du tome :
+
+AGNOLA P., CHAMBRIN L., SABOUREAU F. & LEBOUVIER M. 2026. — Atlas de la flore des Terres australes françaises. Biotope, Mèze ; Muséum national d'Histoire naturelle, Paris, 416 p. (Inventaires & biodiversité ; 26).
+
 ```
-Source :  [Conférence Drogues, ivresses et sociétés](https://www.mnhn.fr/fr/conference/drogues-ivresses-et-societes-une-breve-histoire-des-usages-de-substances-psychoactives-a)
+Source :  [Atlas de la flore des Terres australes françaises]([https://www.mnhn.fr/fr/conference/drogues-ivresses-et-societes-une-breve-histoire-des-usages-de-substances-psychoactives-a](https://sciencepress.mnhn.fr/fr/collections/inventaires-biodiversite/atlas-de-la-flore-des-terres-australes-et-antarctiques-francaises))
 
+1. Trouvez "espèce" et "espèce" avec une seule expression.
 
+2. Trouvez "Cet" et "cet" (mots entiers) avec une seule expression, mais pas "cette".
+
+3. Trouvez les initiales des auteurs de la citation ("P.", "L."…), sans "416 p.".
+
+4. Trouvez tous les nombres d’au moins trois chiffres. Que remarquez-vous pour "1 200" et "160 000" ?
+
+5. Trouvez les mots de 12 lettres et plus.
+
+6. Trouvez tout ce qui est entre parenthèses, parenthèses comprises.
+
+7. Transformez "61 plantes natives et 124 espèces introduites" en "plantes natives : 61 ; espèces introduites : 124".
+
+8. Supprimez l’espace des milliers dans "1 200" et "160 000".
+
+9. Dans la citation, transformez "AGNOLA P." en "P. AGNOLA" pour les quatre auteurs.
 
 ### Ancres
 
