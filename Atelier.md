@@ -16,7 +16,7 @@ Le procès n° 54 doit devenir :
 54|JAMES STEWARD|stealing a wooden cask, value 2 s. and 6 d. and five gallons of gin, value 2 s. and 6 d.|Philip Booth and John Moan|December 11th|GUILTY|the Second Middlesex Jury|Mr. Justice ASHHURST|Whipping, Imprisonment
 ```
 
-
+## Données
 
 ```
 
