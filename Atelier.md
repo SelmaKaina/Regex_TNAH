@@ -2,18 +2,21 @@
 
 Ces données sont issues des Proceedings of the Old Bailey, les comptes rendus publiés après chaque session de la principale cour criminelle de Londres, entre 1674 et 1913. Numérisés et diffusés en ligne, ils couvrent près de 200 000 procès. Elles consistent ici en un échantillon de procès pour vol datant de 1780 environ, extrait d’un jeu de données public (Hugging Face, biglam/old_bailey_proceedings), au format texte brut, à raison d’un procès par paragraphe.
 
+## Consigne
 Le fichier contient un procès par paragraphe. À l’aide d’expressions régulières (chercher et remplacer), transformez chaque paragraphe en une ligne de tableau dont les champs sont séparés par le caractère |, avec les en-têtes suivants :
 
 Identifiant|Accusé|Motif|Victime|Date|Verdict|Jury|Juge|Sentence
 
 Le texte des témoignages doit disparaître : ne conservez que ces neuf informations. Certains champs peuvent être vides (un procès n’a pas toujours d’identifiant, et un acquittement n’a pas de sentence).
+Importez ensuite le résultat dans LibreOffice Calc en choisissant "|" comme séparateur.
 
-Exemple. Le procès n° 54 doit devenir :
+## Exemple
+Le procès n° 54 doit devenir :
 ```
 54|JAMES STEWARD|stealing a wooden cask, value 2 s. and 6 d. and five gallons of gin, value 2 s. and 6 d.|Philip Booth and John Moan|December 11th|GUILTY|the Second Middlesex Jury|Mr. Justice ASHHURST|Whipping, Imprisonment
 ```
 
-Importez ensuite le résultat dans LibreOffice Calc en choisissant "|" comme séparateur.
+
 
 ```
 
