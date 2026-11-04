@@ -39,7 +39,7 @@ Citation du tome :
 AGNOLA P., CHAMBRIN L., SABOUREAU F. & LEBOUVIER M. 2026. — Atlas de la flore des Terres australes françaises. Biotope, Mèze ; Muséum national d'Histoire naturelle, Paris, 416 p. (Inventaires & biodiversité ; 26).
 
 ```
-Source :  [Atlas de la flore des Terres australes françaises](https://www.mnhn.fr/fr/conference/drogues-ivresses-et-societes-une-breve-histoire-des-usages-de-substances-psychoactives-a](https://sciencepress.mnhn.fr/fr/collections/inventaires-biodiversite/atlas-de-la-flore-des-terres-australes-et-antarctiques-francaises)
+Source :  [Atlas de la flore des Terres australes françaises](https://sciencepress.mnhn.fr/fr/collections/inventaires-biodiversite/atlas-de-la-flore-des-terres-australes-et-antarctiques-francaises)
 
 1. Trouvez "espèce" et "espèces" avec une seule expression.
 
