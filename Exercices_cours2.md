@@ -1,25 +1,6 @@
-# Exercices cours 2
 
 
-```
-Notice : le renard roux (Vulpes vulpes)
-Auteur : Camille Lenoir
-Source : https://exemple.org/faune/renard-roux (consulté en 2021).
-Observations transmises par M. Dubois, Mme Martin et Mlle Bernard, relevées le 03/11/2019 et le 12-05-2021.
-
-Le renard roux[^ voir la fiche complète du Muséum] vit dans les bois, les prés et les villes. Longueur : 90 cm ; poids : 6 kg.
-Il chasse au crépuscule, avec patience, sur un sol sec ou au bord d'un lac. Son régime est varié : campagnols, campagnols,
-campagnols, fruits, insectes.
-Les anciens le jugeaient "rusé comme un renard", mais un renard pas rusé finit mal ; un renard rusé survit. Le renard polaire
-(Vulpes lagopus) vit plus au nord ; le renard véloce, sur les prairies d'Amérique. Ce renard est très très très prudent.
-
-Le renard passe au crépuscule,
-sa fourrure brille dans l'herbe ;
-il guette le mulot qui recule,
-Puis disparaît, souple et superbe.
-```
-
-### Rappels cours 1
+# Rappels cours 1
 ```
 Cet atlas, le premier consacré à la flore de ces territoires, présente une synthèse des connaissances botaniques rassemblées au cours des missions scientifiques qui se sont succédé dans les Terres australes françaises (archipels Crozet et Kerguelen et les îles Saint-Paul et Amsterdam) depuis leur découverte.
 Accessible et richement illustré, il s’adresse à tous les passionnés du vivant, qu’ils soient scientifiques ou simples curieux, fascinés par ces territoires du bout du monde et la singularité de leur flore. C'est un ouvrage de référence pour la connaissance et la conservation de cette flore.
@@ -58,6 +39,27 @@ AGNOLA P., CHAMBRIN L., SABOUREAU F. & LEBOUVIER M. 2026. — Atlas de la flore 
 8. Supprimez l’espace des milliers dans "1 200" et "160 000".
 
 9. Dans la citation, transformez "AGNOLA P." en "P. AGNOLA" pour les quatre auteurs.
+
+# Exercices cours 2
+
+
+```
+Notice : le renard roux (Vulpes vulpes)
+Auteur : Camille Lenoir
+Source : https://exemple.org/faune/renard-roux (consulté en 2021).
+Observations transmises par M. Dubois, Mme Martin et Mlle Bernard, relevées le 03/11/2019 et le 12-05-2021.
+
+Le renard roux[^ voir la fiche complète du Muséum] vit dans les bois, les prés et les villes. Longueur : 90 cm ; poids : 6 kg.
+Il chasse au crépuscule, avec patience, sur un sol sec ou au bord d'un lac. Son régime est varié : campagnols, campagnols,
+campagnols, fruits, insectes.
+Les anciens le jugeaient "rusé comme un renard", mais un renard pas rusé finit mal ; un renard rusé survit. Le renard polaire
+(Vulpes lagopus) vit plus au nord ; le renard véloce, sur les prairies d'Amérique. Ce renard est très très très prudent.
+
+Le renard passe au crépuscule,
+sa fourrure brille dans l'herbe ;
+il guette le mulot qui recule,
+Puis disparaît, souple et superbe.
+```
 
 ### Ancres
 
