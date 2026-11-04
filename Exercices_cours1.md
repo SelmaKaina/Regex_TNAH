@@ -1,4 +1,4 @@
-# Exercices
+# Exercices cours 1
 
 ## Partie 1
 Les exercices sont à réaliser dans l'application en ligne [Regex101](https://regex101.com/)
@@ -94,28 +94,3 @@ Puis disparaît, souple et superbe.
 
 7. Supprimer les civilités. Obtenir “Dubois, Martin et Bernard”.
 
-### Ancres
-
-1. Trouver tous les mots terminant par la lettre “c”.
-
-2. Trouver tous les mots d’exactement 3 lettres.
-
-3. Trouver tous les “c” en milieu de mot.
-
-4. Trouver les minuscules en début de vers.
-
-5. Trouver les vers qui se terminent par une virgule.
-
-### ***Lookahead*** et ***lookbehind***
-
-1. Trouver les occurrences de "renard" suivi de "roux", sans capturer "roux".
-
-2. Trouver les nombres qui ne sont pas suivis d'une unité, sans capturer l'unité.
-
-3. Trouver les mots suivis d'une virgule, sans capturer la virgule.
-
-4. Trouver "rusé" sauf dans l'expression "pas rusé".
-
-5. Trouver le mois de la date "12-05-2021".
-
-6. Extraire le texte de la note de bas de page sans les délimiteurs, puis le texte entre guillemets sans capturer les guillemets.
